@@ -1,1 +1,6 @@
+## Dcoumento de prueba en github
+### Incluir varias cosas
 linea 1 en el fichero de prueba 1 en github
+
+
+![Imagen Educamadrid](https://www.educa2.madrid.org/educamadrid/images/logos/educamadrid_header.png
